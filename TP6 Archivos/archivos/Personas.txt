@@ -1,0 +1,4 @@
+Mariano;Perez;40;1.70;
+Martin;Gonzales;35;1.85;
+Julia;Gomez;24;1.64;
+Hugo;Petinato;30;1.69;
